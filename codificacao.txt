@@ -1,0 +1,4 @@
+a codificação deverá seguir o que foi definido na fase Design;
+os programadores deverão seguir procedimentos/regras de programação definidas pela empresa;
+durante a fase de codificação será feito revisão de código periodicamente;
+programadores especialistas em cada área (BD, front e back end);

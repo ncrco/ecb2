@@ -1,0 +1,6 @@
+instalação de sistemas de suporte ao produto no cliente (Sistema operacional, SGBD, ferramentas de monitoramento de desempenho do software, etc.);
+instalação do produto na arquitetura do cliente;
+entrega do manual do produto para o cliente;
+start-up do produto;
+período de acompanhamento no cliente para solução de eventuais problemas (manutenção);
+suporte ao cliente após período de acompanhamento.

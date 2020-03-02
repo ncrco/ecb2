@@ -1,0 +1,25 @@
+o sistema deve contemplar:
+- cadastro de usuários;
+	- solicita documentos de identificação;
+	- solicita biometria do usuário;
+	- verifica idoneidade do usuário;
+	- salvar foto do rosto do usuário no cadastro;
+- cadastro de motoristas / carros autônomos;
+	- solicita documentos de identificação;
+	- solicita documentos do veículo;
+	- verifica idoneidade do usuário;
+	- solicita biometria do usuário;
+	- salvar foto do rosto do usuário no cadastro;
+- parcerias com empresas;
+	- disponibilidade de cupons para empresas parceiras;
+- verificacao de seguranca;
+	- rastreamento do trajeto pelo app;
+- traçado do trajeto mais rápido;
+	- localização dos motoristas / carros autônomos mais próximos;
+	- priorizar trajetos em linha reta avaliando disponibilidade do espaço aéreo no momento da solicitação;
+	- verificar se a rota que atende o limite de 10 dólares e sugerir compartilhamento da viagem caso ultrapasse esse valor;
+- programa de fidelidade;
+	- o usuário pode carregar um crédito e ganhar corridas, dependendo da quantidade creditada;
+	- o usuário pode progredir com descontos quanto mais usar o serviço;
+- formas de pagamento;
+	- cadastro de cartão de crédito no app;

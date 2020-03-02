@@ -1,0 +1,5 @@
+os testes devem ser automatizados;
+durante a programação, o próprio programador fará testes de funções e componentes;
+deverão ser feitos testes de integração entre todos os componentes programa;
+deverão ser feitos testes em ambiente interno e controlado validando cada etapa e gerando relatório de testes evidenciando todos os erros gerados;
+após a entrega do projeto, caso haja versionamento do produto, deverá ser gerado release notes especificando mudanças, melhorias, correções e erros conhecidos relacionados a nova versão.e

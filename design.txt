@@ -1,0 +1,16 @@
+a linguagem utilizada no front end será react native e no back end será node.js;
+será utilizado um servidor físico para armazenamento de dados sensíveis;
+será utilizado serviço de cloud para suprir demanda de acessos em horários de pico (escalabilidade);
+será utilizado BD SQL e SGBD Microsoft SQL Server;
+será definido o padrão da interface gráfica;
+a interface com o usuário será como segue:
+no primeiro acesso será feito cadastro e login;
+para pedir uma corrida o usuário deverá inserir o endereço de destino;
+o resultado retorna opções mais baratas para que o usuário selecione, e caso a corrida ultrapasse 10 dólares terá a opção de “Corrida compartilhada”;
+confirmar a seleção da corrida;
+acompanhar no dispositivo móvel o trajeto e custo da corrida em tempo real;
+ao término, efetuar o pagamento pelo app através do cartão de crédito previamente cadastrado;
+opcionalmente poderá deixar comentários/avaliações sobre a corrida.
+
+
+
